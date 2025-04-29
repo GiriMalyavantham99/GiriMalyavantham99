@@ -65,10 +65,10 @@
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/GiriMalayavantham" target="_blank">
+  <a href="https://www.linkedin.com/in/malayavanthamgiri" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:girimalayavantham@gmail.com">
+  <a href="mailto:girimalayavantham99@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
